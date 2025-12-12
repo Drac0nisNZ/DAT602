@@ -1,0 +1,107 @@
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.csproj.AssemblyReference.cache
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\DemoLogin.AdminForm.resources
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\DemoLogin.LogIn.resources
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.csproj.GenerateResource.cache
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.AssemblyInfoInputs.cache
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.AssemblyInfo.cs
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.csproj.CoreCompileInputs.cache
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\sapo.exe
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\sapo.deps.json
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\sapo.runtimeconfig.json
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\sapo.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\sapo.pdb
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\temp\DAT6022021-main\sapo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.csproj.CopyComplete
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.dll
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\refint\sapo.dll
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.pdb
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\sapo.genruntimeconfig.cache
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\ref\sapo.dll
+C:\temp\DAT6022021-main\sapo\obj\Debug\net6.0-windows\DemoLogin.PlayForm.resources
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\sapo.exe
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\sapo.deps.json
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\sapo.runtimeconfig.json
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\sapo.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\sapo.pdb
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.csproj.AssemblyReference.cache
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\DemoLogin.AdminForm.resources
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\DemoLogin.LogIn.resources
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\DemoLogin.PlayForm.resources
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.csproj.GenerateResource.cache
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.AssemblyInfoInputs.cache
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.AssemblyInfo.cs
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.csproj.CoreCompileInputs.cache
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.csproj.Up2Date
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\refint\sapo.dll
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.pdb
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\sapo.genruntimeconfig.cache
+C:\Users\Todd.Cochrane\source\DAT602 2024\DAT602 2023 Tile layout demo\sapo\obj\Debug\net6.0-windows\ref\sapo.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.csproj.GenerateResource.cache
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.AssemblyInfo.cs
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\refint\sapo.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.pdb
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\Sapo_players.AdminForm.resources
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\Sapo_players.LogIn.resources
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\Sapo_players.LoginForm.resources
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\Sapo_players.PlayerGameBoard.resources
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\Sapo_players.PlayForm.resources
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\sapo.exe
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\sapo.deps.json
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\sapo.runtimeconfig.json
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\sapo.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\sapo.pdb
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.csproj.Up2Date
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\sapo.genruntimeconfig.cache
+C:\Users\natha\Documents\DAT6022024-with_sapo_eg\obj\Debug\net6.0-windows\ref\sapo.dll

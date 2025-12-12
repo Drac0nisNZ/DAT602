@@ -1,0 +1,107 @@
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.exe
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.deps.json
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.runtimeconfig.json
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.pdb
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.AssemblyReference.cache
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.PlayerGameBoard.resources
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.GenerateResource.cache
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfoInputs.cache
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfo.cs
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.CoreCompileInputs.cache
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.CopyComplete
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\refint\Sapo_players.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.pdb
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.genruntimeconfig.cache
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\ref\Sapo_players.dll
+C:\temp\DAT602 2023 Tile layout demo\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.LoginForm.resources
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.LoginForm.resources
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.PlayerGameBoard.resources
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.GenerateResource.cache
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfo.cs
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\refint\Sapo_players.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.pdb
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.exe
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.deps.json
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.runtimeconfig.json
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Sapo_players.pdb
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_pla.2EAC910A.Up2Date
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.genruntimeconfig.cache
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\ref\Sapo_players.dll
+C:\Users\natha\Documents\Sapo_players._add_strength_from_grid_click\Sapo_players\obj\Debug\net6.0-windows\Sapo_players.PlayerForm.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.csproj.AssemblyReference.cache
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.AdminForm.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.LogIn.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.LoginForm.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.PlayerForm.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.PlayerGameBoard.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.Register.resources
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.csproj.GenerateResource.cache
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfoInputs.cache
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.AssemblyInfo.cs
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.csproj.CoreCompileInputs.cache
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.dll
+C:\DAT602\obj\Debug\net6.0-windows\refint\Sapo_players.dll
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.pdb
+C:\DAT602\bin\Debug\net6.0-windows\Sapo_players.exe
+C:\DAT602\bin\Debug\net6.0-windows\Sapo_players.deps.json
+C:\DAT602\bin\Debug\net6.0-windows\Sapo_players.runtimeconfig.json
+C:\DAT602\bin\Debug\net6.0-windows\Sapo_players.dll
+C:\DAT602\bin\Debug\net6.0-windows\Sapo_players.pdb
+C:\DAT602\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\DAT602\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\DAT602\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\DAT602\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\DAT602\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\DAT602\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\DAT602\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\DAT602\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\DAT602\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\DAT602\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_pla.2EAC910A.Up2Date
+C:\DAT602\obj\Debug\net6.0-windows\Sapo_players.genruntimeconfig.cache
+C:\DAT602\obj\Debug\net6.0-windows\ref\Sapo_players.dll
